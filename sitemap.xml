@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://frank01201.github.io/posts/ceb59870.html</loc>
+    
+    <lastmod>2023-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://frank01201.github.io/posts/ee9e06b0.html</loc>
     
-    <lastmod>2023-01-21</lastmod>
+    <lastmod>2023-02-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,11 +22,18 @@
 
   <url>
     <loc>http://frank01201.github.io/</loc>
-    <lastmod>2023-01-21</lastmod>
+    <lastmod>2023-02-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://frank01201.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2023-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
