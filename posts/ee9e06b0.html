@@ -206,8 +206,8 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><script src="/j
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'https://frank01201.github.io',
-      region: '',
+      envId: 'https://twikoo-blog.up.railway.app',
+      region: 'ap-anhui',
       onCommentLoaded: function () {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
       }
@@ -218,8 +218,8 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><script src="/j
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'https://frank01201.github.io',
-      region: '',
+      envId: 'https://twikoo-blog.up.railway.app',
+      region: 'ap-anhui',
       urls: [window.location.pathname],
       includeReply: false
     }).then(function (res) {
